@@ -1,16 +1,16 @@
 @echo off
 title Git control tool - ver 1.0
-echo Excuting Cmd (git pull)
+echo Excuting "git pull"
 git pull
-echo Excuted Cmd (git pull)
+echo Excute "git pull" successfully
 
-echo Excuting Cmd (git add)
+echo Excuting "git add"
 git add .
-echo Excuted Cmd (git add)
+echo Excute "git add" successfully
 
-echo Excuting Cmd (git commit)
+echo Excuting "git commit"
 git commit -m "MR-HAI GIT Tool automatic commit"
-echo Excute (git commit) successfully
+echo Excute "git commit" successfully
 
 echo Excuting "git push"
 git push
